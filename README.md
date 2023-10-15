@@ -32,8 +32,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: [solution](https://github.com/aeorherhe/interactive-comments-section-react.git)
-- Live Site URL: [live site](https://aeorherhe-comment-section-react.netlify.app)
+- Solution URL: [solution](https://github.com/aeorherhe/multi-step-form-react.git)
+- Live Site URL: [live site](https://aeorherhe-multi-step-form-react.netlify.app)
 
 ### Built with
 
@@ -46,6 +46,9 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - NanoID library
 - Vite
 - React Icons
+- Styled Components
+- Context API
+- Reducer hook
 
 ## Author
 
