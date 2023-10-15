@@ -1,7 +1,7 @@
 // initial state
 export const initialState = {
   steps: ["Your Info", "Select plans", "Add-Ons", "Finish Up"],
-  currentStep: 2,
+  currentStep: 1,
   selectedPlan: null,
   selectedAddOn: [],
   orders: [],
